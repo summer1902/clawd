@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "--url": {
+      "baseUrl": "http://localhost:8931/mcp"
+    }
+  },
+  "imports": []
+}
